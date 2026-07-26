@@ -1,0 +1,19 @@
+{
+  "name": "Ring Raiders",
+  "short_name": "Ring Raiders",
+  "description": "A co-op procedurally generated dungeon crawler for couch multiplayer with game controllers - no aiming required.",
+  "id": "/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#171310",
+  "theme_color": "#5b5048",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
